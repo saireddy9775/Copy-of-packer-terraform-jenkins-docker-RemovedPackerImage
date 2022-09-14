@@ -1,0 +1,1 @@
+# Copy-of-packer-terraform-jenkins-docker-RemovedPackerImage
